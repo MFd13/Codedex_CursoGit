@@ -12,3 +12,5 @@ de git, los siguientes fueron los que se usaron:
 * git push -u origin main
 
 Esta linea es nueva aca nomas pa probar el pull
+
+Esta linea es nueva, se puso nomas aca pa calar el merge :p
